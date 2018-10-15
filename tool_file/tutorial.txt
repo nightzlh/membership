@@ -1,0 +1,13 @@
+webparts
+
+
+https://docs.microsoft.com/en-us/previous-versions/aspnet/hh975440(v=vs.120)
+	ValidationSettings:UnobtrusiveValidationMode
+
+https://blogs.msdn.microsoft.com/webdev/2013/08/19/accessing-the-asp-net-web-configuration-tool-in-visual-studio-2013/
+
+https://msdn.microsoft.com/en-us/library/sk23dydw.aspx
+
+https://msdn.microsoft.com/en-us/library/879kf95c.aspx
+
+https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/879kf95c(v=vs.90)

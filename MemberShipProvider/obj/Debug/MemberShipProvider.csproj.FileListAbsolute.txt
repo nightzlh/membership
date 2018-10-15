@@ -1,0 +1,5 @@
+D:\project\membership_login\MemberShipProvider\bin\Debug\MemberShipProvider.exe.config
+D:\project\membership_login\MemberShipProvider\bin\Debug\MemberShipProvider.exe
+D:\project\membership_login\MemberShipProvider\bin\Debug\MemberShipProvider.pdb
+D:\project\membership_login\MemberShipProvider\obj\Debug\MemberShipProvider.exe
+D:\project\membership_login\MemberShipProvider\obj\Debug\MemberShipProvider.pdb

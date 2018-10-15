@@ -1,0 +1,6 @@
+D:\project\membership_login\membership_login\bin\membership_login.dll.config
+D:\project\membership_login\membership_login\bin\membership_login.dll
+D:\project\membership_login\membership_login\bin\membership_login.pdb
+D:\project\membership_login\membership_login\obj\Debug\membership_login.dll
+D:\project\membership_login\membership_login\obj\Debug\membership_login.pdb
+D:\project\membership_login\membership_login\obj\Debug\membership_login.csprojResolveAssemblyReference.cache
