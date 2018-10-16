@@ -31,6 +31,15 @@ namespace membership_login {
         protected global::System.Web.UI.WebControls.WebParts.WebPartManager WebPartManager1;
         
         /// <summary>
+        /// DisplayModeMenu1 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.UserControl DisplayModeMenu1;
+        
+        /// <summary>
         /// SidebarZone 控件。
         /// </summary>
         /// <remarks>
@@ -74,5 +83,32 @@ namespace membership_login {
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label1;
+        
+        /// <summary>
+        /// EditorZone1 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.WebParts.EditorZone EditorZone1;
+        
+        /// <summary>
+        /// AppearanceEditorPart1 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.WebParts.AppearanceEditorPart AppearanceEditorPart1;
+        
+        /// <summary>
+        /// LayoutEditorPart1 控件。
+        /// </summary>
+        /// <remarks>
+        /// 自动生成的字段。
+        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.WebParts.LayoutEditorPart LayoutEditorPart1;
     }
 }

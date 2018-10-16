@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="DisplayModeMenu.ascx" />
     <Content Include="Login.aspx" />
     <Content Include="MemberPages\Members.aspx" />
     <Content Include="Register.aspx" />

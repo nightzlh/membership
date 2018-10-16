@@ -2,6 +2,8 @@
 
 <%@ Register src="SearchUserControl.ascx" tagname="SearchUserControl" tagprefix="uc1" %>
 
+<%@ Register src="DisplayModeMenu.ascx" tagname="DisplayModeMenu" tagprefix="uc2" %>
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -20,7 +22,8 @@
         <asp:WebPartManager ID="WebPartManager1" runat="server">
         </asp:WebPartManager>
         
-        Web Parts Demonstration Page
+        Web Parts Demonstration Page<br />
+        <uc2:DisplayModeMenu ID="DisplayModeMenu1" runat="server" />
 
     </div>
         <table class="auto-style1">
@@ -49,7 +52,14 @@
                         </ZoneTemplate>
                     </asp:WebPartZone>
                 </td>
-                <td>&nbsp;</td>
+                <td>
+                    <asp:EditorZone ID="EditorZone1" runat="server">
+                        <ZoneTemplate>
+                            <asp:AppearanceEditorPart ID="AppearanceEditorPart1" runat="server" />
+                            <asp:LayoutEditorPart ID="LayoutEditorPart1" runat="server" />
+                        </ZoneTemplate>
+                    </asp:EditorZone>
+                </td>
             </tr>
         </table>
     </form>
